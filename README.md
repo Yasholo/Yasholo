@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yasholo
+- 👋 Hi, I’m Yash Kumar aka Yasholo :)
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning Ethical Hacking
 - 📫 How to reach me >>> Instagram: @Yasholo_ , linkedin: www.linkedin.com/in/yashkumar57 , email: yashk5635@gmail.com
