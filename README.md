@@ -1,5 +1,8 @@
-<div align="center">
-<img src="./glow.gif" alt="Hello World" align="center">
+<div align="center" style="width: 100%;">
+  <img src="./glow.gif" alt="Hello World" align="center">
+</div>
+<div style="width: 100%;">
+  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
 </div>
 
 - 👋 Hi, I’m Yash Kumar aka Yasholo :)
