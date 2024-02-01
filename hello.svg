@@ -26,14 +26,13 @@
         }
 
         .container {
-          --color-main: #2C2C2E;
-          --color-primary: #B3B4B6;
-          --color-secondary: #2aa146;
-          --color-tertiary: #264bcc;
-          --color-five: #F8D034;
-          --color-six: #E40027;
+          --color-main: #E806CB;
+          --color-primary: #CF06B6;
+          --color-secondary: #7C117B;
+          --color-tertiary: #57266D;
+          --color-five: #431C53;
 
-          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary), var(--color-five), var(--color-six));
+          background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary), var(--color-five));
           background-size: 400% 400%;
           animation: gradient 15s ease infinite;
 
@@ -56,12 +55,11 @@
 
         @media (prefers-color-scheme: light) {
           .container {
-            --color-main: #ff0004;
-            --color-primary: #7a0080;
-            --color-secondary: #ffff00;
-            --color-tertiary: #30c030;
-            --color-five: #002cff;
-            --color-six: #ff7e00;
+            --color-main: #bcdcdb;
+            --color-primary: #f0eadb;
+            --color-secondary: #e8b5cd;
+            --color-tertiary: #c79fdf;
+            --color-five: #9884c7;
           }
         }
 
