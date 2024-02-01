@@ -1,3 +1,7 @@
+<div align="center">
+<img src="./glow.gif" alt="Hello World" align="center">
+</div>
+
 - 👋 Hi, I’m Yash Kumar aka Yasholo :)
 - 👀 I don't know what I am interested in.
 - 🌱 I’m currently learning What ever I feel like.
