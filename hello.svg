@@ -26,11 +26,11 @@
         }
 
         .container {
-          --color-main: #E31E1E;
-          --color-primary: #012CC8;
-          --color-secondary: #00C50A;
-          --color-tertiary: #EAE140;
-          --color-five: #D600C3;
+          --color-main: #2E1B86;
+          --color-primary: #7723AC;
+          --color-secondary: #B053CB;
+          --color-tertiary: #FFA84C;
+          --color-five: #FED338;
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary), var(--color-five));
           background-size: 400% 400%;
