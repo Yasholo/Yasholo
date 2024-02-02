@@ -1,5 +1,6 @@
 <div align="center" style="width: 100%;">
   <img src="./glow.gif" alt="Hello World" align="center">
+  <img src="./earth-internetcore.gif" alt="globe" align="center">
 </div>
 <div style="width: 100%;">
   <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
