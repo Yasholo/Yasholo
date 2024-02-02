@@ -54,7 +54,7 @@
           transform-origin: 70% 70%;
         }
 
-        <-- @media (prefers-color-scheme: light) {
+        <!-- @media (prefers-color-scheme: light) {
           .container {
             --color-main: #E806CB;
             --color-primary: #CF06B6;
@@ -76,7 +76,7 @@
       </style>
 
       <div class="container">
-        <-- <h1>Hi there, my name is Yash <div class="hi">👋</div></h1> -->
+        <!-- <h1>Hi there, my name is Yash <div class="hi">👋</div></h1> -->
       </div>
     </div>
   </foreignObject>
