@@ -26,11 +26,11 @@
         }
 
         .container {
-          --color-main: #E806CB;
-          --color-primary: #CF06B6;
-          --color-secondary: #7C117B;
-          --color-tertiary: #57266D;
-          --color-five: #431C53;
+          --color-main: #E31E1E;
+          --color-primary: #012CC8;
+          --color-secondary: #00C50A;
+          --color-tertiary: #EAE140;
+          --color-five: #D600C3;
 
           background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary), var(--color-five));
           background-size: 400% 400%;
@@ -55,11 +55,11 @@
 
         @media (prefers-color-scheme: light) {
           .container {
-            --color-main: #bcdcdb;
-            --color-primary: #f0eadb;
-            --color-secondary: #e8b5cd;
-            --color-tertiary: #c79fdf;
-            --color-five: #9884c7;
+            --color-main: #E806CB;
+            --color-primary: #CF06B6;
+            --color-secondary: #7C117B;
+            --color-tertiary: #57266D;
+            --color-five: #431C53;
           }
         }
 
@@ -75,6 +75,7 @@
       </style>
 
       <div class="container">
+        <div> <image href="https://tenor.com/view/glow-gif-27280262" /> </div>
         <h1>Hi there, my name is Yash <div class="hi">👋</div></h1>
       </div>
     </div>
