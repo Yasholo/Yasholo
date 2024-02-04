@@ -24,7 +24,7 @@
         
         @keyframes typewriter{
         from{width: 0;}
-        to{width: 20em;}
+        to{width: 22em;}
         }
         
         @keyframes blinkTextCursor{
