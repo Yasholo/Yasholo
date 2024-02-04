@@ -24,7 +24,7 @@
         
         @keyframes typewriter{
         from{width: 0;}
-        to{width: 18em;}
+        to{width: 16em;}
         }
         
         @keyframes blinkTextCursor{
@@ -117,7 +117,7 @@
 .title {
   font-family: bungee, sans-serif;
   font-weight: 800;
-  font-size: calc(1.50rem + 3.75vw);
+  font-size: calc(1rem + 2.5vw);
 <!--   text-transform: uppercase; -->
 }
 
@@ -156,12 +156,11 @@
  -->
         
 .text_shadows {
-  text-shadow: 3px 3px 0 var(--color-2), 6px 6px 0 var(--color-3),
-    9px 9px var(--color-4), 12px 12px 0 var(--color-5);
+  text-shadow: 3px 3px 0 var(--color-2), 6px 6px 0 var(--color-3), 9px 9px var(--color-4), 12px 12px 0 var(--color-5);
   font-family: bungee, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
-  font-size: calc(1.75rem + 4.25vw);
+  font-size: calc(1rem + 2.5vw);
   text-align: center;
   margin: 0;
   color: var(--color-1);
