@@ -116,7 +116,7 @@
 
 .title {
   font-family: bungee, sans-serif;
-  font-weight: 700;
+  font-weight: 500;
   font-size: calc(.8rem + 2vw);
 <!--   text-transform: uppercase; -->
 }
