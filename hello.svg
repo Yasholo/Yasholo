@@ -24,7 +24,7 @@
         
         @keyframes typewriter{
         from{width: 0;}
-        to{width: 14em;}
+        to{width: 16em;}
         }
         
         @keyframes blinkTextCursor{
@@ -105,7 +105,7 @@
   100%  {color: var(--color-1)}
 }
 
-<!-- /* Here are just some visual styles. 🖌 */
+<!-- /* Here are just some visual styles. 🖌 */ -->
 
 .container2 {
   display: grid;
@@ -113,7 +113,7 @@
   text-align: center;
   height: 100vh
 }
- -->
+
 .title {
   font-family: bungee, sans-serif;
   font-weight: 700;
@@ -285,8 +285,8 @@
         }
       </style>
 
-      <div class="container">
-        <h1 class="title line-1 anim-typewriter">
+      <div class="container container2">
+        <h1 class="title line-1 anim-typewriter ">
           <span class="title-word title-word-1">Hi</span>
           <span class="title-word title-word-2">there</span>
           <span class="title-word title-word-3">, </span>
