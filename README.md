@@ -25,33 +25,21 @@ to my personal GitHub profile!
 <div width="50px" align="center">
 <img src="bitmap.gif" alt="internet" align="center" width="25%">
 </div>
-<!-- <div width="50px" >
-  
-- 👋 Hi, I’m [Yash Kumar](https://www.linkedin.com/in/yasholo), aka Yasholo :)
-  a Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp; I hold a Bachelor's degree in
-  Computer Science and am currently studying to become effecient in DevOps 🎯
-- 🔭 I have experience with several programming languages, including Bash, Python, C, CPP, JavaScript, HTML5,
-  CSS3. I’m particularly interested in DevOps, and I’m currently working on a project that involves fundamental
-  DevOps.
-- 🌱 I'm currently learning: **Big Data | Automation | Advanced SQL | Advanced Java / Python | AWS Cloud**
-- 💬 Ask me about: **Science & Technology | Technical Content Writing | Music | Reading | History**
-- 👀 After graduation, I hope to work as a software engineer at a tech company, where I can continue to develop
-  my skills and contribute to innovative projects. In my free time, I enjoy attending hackathons and learning
-  about new technologies in the field.
-- 📫 How to reach me >>> Instagram: @Yasholox , linkedin: www.linkedin.com/in/yasholo , email: yashk5635@gmail.com
-</div> -->
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center"><img src="portal-rick-and-morty.gif" /><br><img src="aboutme.gif"></div><br>
 
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25"/> &nbsp;Hi, I’m [Yash Kumar](https://www.linkedin.com/in/yasholo), aka Yasholo :) a Software Engineer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;<img align="right" src="linux-computer.gif" alt="Penguin" margin="10%" width="15%" /> <br> 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;I hold a Bachelor's degree in Computer Science and <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;am currently studying to become effecient in DevOps 🎯 <br>
 <img src="peach-cat.gif" width="25" />&nbsp;&nbsp;I have experience with several programming languages, including <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Bash, Python, C, CPP, JavaScript, HTML5, CSS3**.<br> 
 <img src="pc-head-bang.gif" width="25" />&nbsp;&nbsp;I’m particularly interested in DevOps, and I’m currently learning: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big Data | Automation | Advanced SQL | Advanced Java / Python | AWS Cloud** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and working on a project that involves fundamental **DevOps**.<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about: **Tech | Linux | Fitness | Literature | Cars <img src="mr24hrs-acura.gif" width="30"/>** <br>
-<img src="music-party.gif" width="25" />&nbsp;&nbsp;Hobbies: **GYM, RUNNING, BADMINTON, READING, WRITING, CHESS, MUSIC, Many more...**.<br> 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp;If you want to reach out to me about anything, be it some doubt or just to hangout <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and talk or want to game together just ping me 😉.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How to reach me >>> Instagram: @Yasholox , linkedin: www.linkedin.com/in/yasholo
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;email: yashk5635@gmail.com <br>
+<img src="music-party.gif" width="25" />&nbsp;&nbsp;Hobbies: **GYM, RUNNING, BADMINTON, READING, WRITING, CHESS, MUSIC, Many more...**<br><br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp;If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Instagram](https://www.instagram.com/yasholox)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/yasholo)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:yashk5635@gmail.com">Email</a>**<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -157,21 +145,11 @@ to my personal GitHub profile!
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
-<p align="center">
-<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
-
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
-
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
+
 
 <!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
 <h4 align="center">
