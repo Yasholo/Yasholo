@@ -35,8 +35,8 @@ to my personal GitHub profile!
 <img src="peach-cat.gif" width="25" />&nbsp;&nbsp;I have experience with several programming languages, including <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Bash, Python, C, CPP, JavaScript, HTML5, CSS3**.<br> 
 <img src="pc-head-bang.gif" width="25" />&nbsp;&nbsp;I’m particularly interested in DevOps, and I’m currently learning: <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Big Data | Automation | Advanced SQL | Advanced Java / Python | AWS Cloud** <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and working on a project that involves fundamental **DevOps**.<br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Ask me about: **Tech | Linux | Fitness | Literature | Cars <img src="mr24hrs-acura.gif" width="30"/>** <br>
-<img src="music-party.gif" width="25" />&nbsp;&nbsp;Hobbies: **GYM, RUNNING, BADMINTON, READING, WRITING, CHESS, MUSIC, Many more...**<br><br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp;If you want to reach out to me about anything, be it some doubt or just to hangout and talk just ping me 😉.
+<img src="music-party.gif" width="25" />&nbsp;&nbsp;Hobbies: **GYM, RUNNING, BADMINTON, READING, WRITING, CHESS, MUSIC,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many more...**<br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" />&nbsp;&nbsp;If you want to reach out to me about anything, be it some doubt or just to hangout and talk just<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ping me 😉.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[Instagram](https://www.instagram.com/yasholox)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Linkedin](https://www.linkedin.com/in/yasholo)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="mailto:yashk5635@gmail.com">Email</a>**<br>
@@ -81,7 +81,7 @@ to my personal GitHub profile!
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
+<!--🦜PARROTSEMOJI -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
@@ -93,15 +93,15 @@ to my personal GitHub profile!
 <p align="center">
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg">
 
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<!--🎨CAPSULE-->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
 
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
+<!--🤖ASCIIART -->
 
 <div align="center">
   
@@ -129,11 +129,11 @@ to my personal GitHub profile!
   
 </div>
   
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
+<!--🎨CAPSULE -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
 
-<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
+<!--💬🃏FUNFACT -->
 <p align="center">
 
 <b>FUN FACT EVERYDAY🤔 :</b>
@@ -141,7 +141,7 @@ to my personal GitHub profile!
 <i>❝An average person normally blinks 20 times a minute, but when using a computer he/she blinks only 7 times a minute.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/images/marquee.svg TO YOUR REPO AND EDIT IT-->
+<!--📰RSS -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee2.svg">
 
@@ -151,7 +151,7 @@ to my personal GitHub profile!
 <p align="center">
 
 
-<!--🎨THEMEMODE / 🌐WEBSITE: https://fancytext.blogspot.com/ -->
+<!--🎨THEMEMODE -->
 <h4 align="center">
 👀 𝕐&nbsp;𝕆&nbsp;𝕌&nbsp;ℝ&nbsp;&nbsp;𝕋&nbsp;ℍ&nbsp;𝔼&nbsp;𝕄&nbsp;𝔼&nbsp;&nbsp;𝕄&nbsp;𝕆&nbsp;𝔻&nbsp;𝔼 👀
 </h4>
