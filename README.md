@@ -1,9 +1,9 @@
-  <div align="center" >
+  <div align="center">
   <img src="./glow.gif" alt="Hello World" align="center" width="30%">
   <img src="./earth-internetcore.gif" alt="globe" align="center" width="10%">
 </div>
-<div style="width: 100%;">
-  <img src="hello.svg" style="width: 100%;" alt="Click to see the source">
+<div style="width: 100%">
+  <img src="hello.svg" style="width: 100%" alt="Click to see the source">
 </div>
 <div align="center">
 <img src="fan-1.gif" alt="fan" align="center">
@@ -17,7 +17,7 @@ to my personal GitHub profile!
 <div align="center">
 <img src="homer-simpson.gif" alt="any-key" align="center">
 </div>
-</div>
+
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
