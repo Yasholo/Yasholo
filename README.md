@@ -1,4 +1,3 @@
-### <div>
   <div align="center" >
   <img src="./glow.gif" alt="Hello World" align="center" width="30%">
   <img src="./earth-internetcore.gif" alt="globe" align="center" width="10%">
@@ -26,6 +25,7 @@ to my personal GitHub profile!
 <img src="bitmap.gif" alt="internet" align="center" width="25%">
 </div>
 
+## About Section
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <div align="center"><img src="portal-rick-and-morty.gif" /><br><img src="aboutme.gif"></div><br>
@@ -46,9 +46,12 @@ to my personal GitHub profile!
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+## Interest
 <!--🐱CAT-->
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
+
 
 <!--🤔INTERESTTITLE-->
 <p align="center">
